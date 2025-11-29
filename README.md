@@ -80,8 +80,7 @@ Atualmente desenvolvo:
 
 - **SOFTJM ERP** — Sistema empresarial completo (Angular + API + PostgreSQL)  
 - **SoftJMPay** — Solução de pagamentos inteligente  
-- **Paraíba Bot** — Bot de trade com PyQt5 + Binance API  
-- **Soluções completas** para lojas, restaurantes, autopeças, TI e assistência técnica  
+- **Soluções completas** para lojas, restaurantes, autopeças, TI e Assistência Técnica  
 
 ---
 
